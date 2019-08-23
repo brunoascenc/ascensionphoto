@@ -1,19 +1,20 @@
-#AscensionPhotography
+# Ascension Photography
 
-Ascension é um pequeno projeto sobre uma agencia de fotografia.
+Ascension é um projeto sobre uma agencia de fotografia.
 
-Feito com:
 
-   HTML5
+## Feito com:
+
+  * HTML5
    
-   CSS3
+  * CSS3
    
-   JavaScript
+  * JavaScript
    
-   Images: unsplash (unsplash.com)
+  * Images: unsplash (unsplash.com)
    
-   Icons: fontawesome (fontawesome.com)
+  * Icons: fontawesome (fontawesome.com)
    
-   Frameworks: bootstrap (getbootstrap.com)
+  * Bootstrap (getbootstrap.com)
    
-   Outros: magnific-pop/AOS-Scroll
+  * Outros: magnific-pop/AOS-Scroll
